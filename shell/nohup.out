@@ -1,0 +1,20 @@
+/Library/Frameworks/Python.framework/Versions/3.11/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/fangxu/Desktop/Iman_cardiac_seg/cardiac_seg/shell/./train.py': [Errno 2] No such file or directory
+/Library/Frameworks/Python.framework/Versions/3.11/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/fangxu/Desktop/Iman_cardiac_seg/cardiac_seg/shell/./train.py': [Errno 2] No such file or directory
+/Library/Frameworks/Python.framework/Versions/3.11/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/fangxu/Desktop/Iman_cardiac_seg/cardiac_seg/shell/./train.py': [Errno 2] No such file or directory
+/Library/Frameworks/Python.framework/Versions/3.11/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/fangxu/Desktop/Iman_cardiac_seg/cardiac_seg/shell/./train.py': [Errno 2] No such file or directory
+nohup: python: No such file or directory
+/Library/Frameworks/Python.framework/Versions/3.11/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/fangxu/Desktop/Iman_cardiac_seg/cardiac_seg/shell/./train.py': [Errno 2] No such file or directory
+/Library/Frameworks/Python.framework/Versions/3.11/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/fangxu/Desktop/Iman_cardiac_seg/cardiac_seg/shell/./train.py': [Errno 2] No such file or directory
+2023-10-16 11:09:26 : INFO : Pytorch Version:2.0.1
+usage: train.py [-h] --dataset DATASET --batch-size N --patch-size N [N ...]
+                --epoches N --identifier N --extention N --model N
+                [--weights WEIGHTS] [--pre_path PRE_PATH]
+                [--checkpoints CHECKPOINTS] [--seed S] [--gpu N]
+                [--log-interval N] [--lr LR] [--weight WEIGHT] [--crossvalid]
+                [--fold N] [--resume] [--save-to-mem]
+train.py: error: the following arguments are required: --dataset, --batch-size, --patch-size/--list, --epoches, --identifier, --extention, --model
+/Library/Frameworks/Python.framework/Versions/3.11/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/fangxu/Desktop/Iman_cardiac_seg/cardiac_seg/shell/./train.py': [Errno 2] No such file or directory
+/Library/Frameworks/Python.framework/Versions/3.11/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/fangxu/Desktop/Iman_cardiac_seg/cardiac_seg/shell/./train.py': [Errno 2] No such file or directory
+/Library/Frameworks/Python.framework/Versions/3.11/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/fangxu/Desktop/Iman_cardiac_seg/cardiac_seg/shell/./train.py': [Errno 2] No such file or directory
+/Library/Frameworks/Python.framework/Versions/3.11/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/fangxu/Desktop/Iman_cardiac_seg/cardiac_seg/shell/./train.py': [Errno 2] No such file or directory
+/Library/Frameworks/Python.framework/Versions/3.11/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/fangxu/Desktop/Iman_cardiac_seg/cardiac_seg/shell/./train.py': [Errno 2] No such file or directory
